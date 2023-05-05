@@ -39,6 +39,7 @@
       9,
       10,
       11,
+      12,
       13,
       14,
       15,
@@ -67,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "LM2597-5.kicad_prl",
+    "filename": "LM2597-Fixed.kicad_prl",
     "version": 3
   },
   "project": {
