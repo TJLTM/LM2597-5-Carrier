@@ -1,0 +1,13 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,value,mount_type,place
+168.24137,-78.965848,0.0,bottom,C1,,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,0.1uF,smt,True
+162.067454,-87.578748,90.0,bottom,C2,,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,0.1uF,smt,True
+174.642915,-84.976392,90.0,bottom,C3,,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,0.1uF,smt,True
+165.038265,-66.577536,0.0,top,C4,,CP_Radial_D5.0mm_P2.50mm,68uF,tht,True
+171.376915,-67.848426,0.0,top,C5,,CP_Radial_D8.0mm_P5.00mm,120uF,tht,True
+163.481551,-78.100872,0.0,top,D1,,D_DO-41_SOD81_P10.16mm_Horizontal,1N5817,tht,True
+167.586831,-84.902863,0.0,top,IC1,,SOIC127P600X175-8N,LM2597MX-ADJ_NOPB,smt,True
+176.855208,-80.35277,180.0,top,J1,,PinHeader_1x03_P2.54mm_Vertical,Conn_01x03,tht,True
+177.322931,-91.4247,180.0,top,L1,,L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC,150mH,tht,True
+162.110602,-82.356735,-90.0,bottom,R1,,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,4.7k,smt,True
+161.145189,-68.392461,90.0,bottom,R2,,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1k,smt,True
+167.285208,-72.202558,0.0,top,RV1,,Potentiometer_Bourns_3296W_Vertical,200k,tht,True
